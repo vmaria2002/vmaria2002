@@ -1,8 +1,10 @@
 ✨Proiecte Internship & Universitate ✨
 
-👨‍💻 11Digits
+@11Digits
 
-🎓 UTCN
+@UTCN
+
+@personal projects
 <!--
 **vmaria2002/vmaria2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
